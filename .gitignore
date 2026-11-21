@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+.venv311/
+venv/
+env/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Raw datasets
+data/raw/
+
+# Processed datasets
+data/processed/*
+!data/processed/model_comparison.csv
+!data/processed/horizon_metrics.csv
+!data/processed/product_metrics.csv
+
+# Temporary files
+*.log
