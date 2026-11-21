@@ -272,16 +272,3 @@ These files contain model comparison, horizon-wise evaluation, and product-level
 - Experiment with hyperparameter optimization.
 - Extend forecasting into inventory optimization and replenishment planning.
 
-## Author
-
-**Preksha Sao**
-
-M.Tech Data Science  
-Delhi Technological University (DTU)
-
-- GitHub: [saopreksha19-art](https://github.com/saopreksha19-art)
-- LinkedIn: [prekshasao](https://www.linkedin.com/in/prekshasao/)
-
----
-
-If you find this project useful, consider giving the repository a star!
